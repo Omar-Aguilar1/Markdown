@@ -42,14 +42,14 @@ un comentario y replicarlo deberíamos usar el siguiente código:
 ###### *Ejemplo:*
 
 ```MarkDown
-> Linux es el sistema operativo mas chingon!!
+> Linux es un sistema operativo!!
 
 Total mente de acuerdo!!
 ```
 
 ###### *Resultado:*
 
-> Linux es el sistema operativo mas chingon!!
+> Linux es un sistema operativo!!
 
 Total mente de acuerdo!!
 
